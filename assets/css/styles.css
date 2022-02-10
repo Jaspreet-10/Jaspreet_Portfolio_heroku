@@ -2,7 +2,8 @@
 
 /* Variables */
 :root {
-  --font-family: "Roboto", sans-serf;
+  /* --font-family: "Roboto", sans-serf; */
+  font-family: 'Open Sans', sans-serif;
   --normal-font: 400;
   --bold-font: 700;
   --bolder-font: 900;
